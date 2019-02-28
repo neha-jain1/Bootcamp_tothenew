@@ -17,7 +17,7 @@ public class Q11 {
         }
     }
     public static void main(String[] args) throws InterruptedException {
-        Q10 thread_run  = new Q10();
+        Q11 thread_run  = new Q11();
         Thread thread1 = new Thread(new Runnable() {
             @Override
             public void run() {
