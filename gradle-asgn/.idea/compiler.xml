@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="gradle-asgn_ma" target="1.8" />
+      <module name="gradle-asgn_mai" target="1.8" />
+      <module name="gradle-asgn_main" target="1.8" />
+      <module name="gradle-asgn_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
